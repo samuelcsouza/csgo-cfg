@@ -1,6 +1,4 @@
 # CS:GO Config Files
-My personal CS:GO cfg files
-
 
 ## How to use
 
