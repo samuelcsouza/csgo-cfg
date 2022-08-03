@@ -11,3 +11,4 @@ Enjoy!
 - Res: 800x600 4:3
 - Sens: sensitivity 2.00
 - zoom sensitivity 1.00
+- Mouse DPI: 800
